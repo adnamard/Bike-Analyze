@@ -1,0 +1,6 @@
+#library
+pandas
+numpy 
+seaborn 
+matplotlib
+plotly
