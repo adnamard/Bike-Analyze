@@ -1,1 +1,1 @@
-Streamlit: https://adnamard-analyzebike.streamlit.app/
+Streamlit: https://adnamard-bike.streamlit.app/
